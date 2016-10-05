@@ -1,0 +1,60 @@
+html {
+    background-color: black;
+    font-family: 'Exo 2', sans-serif;
+	}
+
+header {
+	color: white;
+	background-color: white;
+	height: 70px;
+	margin-right: 490px;
+	margin-left: 190px;
+
+}
+
+div#colonne1 {
+	color:blue;
+    float: left;
+    width: 160px;
+    height: 570px;
+    background-color: blue;
+    margin-top: 30px;
+
+}
+div#colonne2 {
+    float: right;
+    width: 300px;
+    background-color: red;
+    margin-right: 490px;
+    margin-top: 30px;
+    padding-top: 150px;
+
+
+
+}
+
+div#centre {
+	font-size: 20px;
+	float: center;
+	background-color: white;
+	
+	margin-left:  190px;
+	margin-top: 30px;
+	height: 320px;
+	width: 400px;
+	text-align: center;
+	padding-top: 80px;
+
+
+
+}
+
+footer {
+	color: yellow;
+	background-color: yellow;
+	float: right;
+	width:300px;
+	margin-right: 490px;
+	height: 160px;
+	margin-bottom: 500px;
+}
