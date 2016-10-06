@@ -1,0 +1,2 @@
+J'ai voulu créer une page très graphique, en m'inspirant des compositions d'un artiste que j'admire beaucoup : Piet Mondrian.
+Je ne voulais pas utiliser de dégradés, d'ombres portées ou autres (parce que je trouve pas ça joli), mais j'ai essayer de jouer avec les blocs header, footer, article etc. et les couleurs pour créer ma page. 

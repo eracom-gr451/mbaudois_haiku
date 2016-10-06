@@ -22,6 +22,8 @@ div#colonne1 {
 
 }
 div#colonne2 {
+	font-size: 15px;
+	font-style: italic;
     float: right;
     width: 300px;
     background-color: red;
